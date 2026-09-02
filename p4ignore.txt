@@ -1,0 +1,3 @@
+# This project is managed by Git, not Perforce.
+# Ignore this directory and everything below it when nested in a Perforce workspace.
+**

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sync Document Translations"
+  short_description: "Keep Chinese, Korean, and English Markdown in sync"
+  default_prompt: "Use $sync-doc-translations to synchronize the other two language files from the Markdown file I just edited."
